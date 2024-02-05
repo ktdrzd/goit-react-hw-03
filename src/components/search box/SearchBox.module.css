@@ -1,0 +1,14 @@
+.search {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;   
+}
+
+.text {
+    color: black;
+    font-size: 20px;
+}
+
+.input {
+    height: 20px;
+}
