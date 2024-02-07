@@ -4,8 +4,8 @@
     border-radius: 10px;
     padding: 10px;
     align-items: center;
-    justify-content: center;
-    gap: 35px;
+    justify-content: space-between;
+    /* gap: 35px; */
     /* height: auto; */
 }
 
